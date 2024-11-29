@@ -369,30 +369,30 @@ dimwishlist:item=499245245&perks=1821614984,1546637391
 
 //Riiswalker
 //notes:Aegis Endgame D Tier - Rank 33.0
-dimwishlist:item=-557165046&perks=1821614984,1546637391
+dimwishlist:item=557165046&perks=1821614984,1546637391
 
 
 //Riiswalker
 //notes:Aegis Endgame D Tier - Rank 33.0
-dimwishlist:item=-1764868900&perks=1821614984,1546637391
-dimwishlist:item=-557165046&perks=3978468247,1546637391
-dimwishlist:item=-1764868900&perks=3978468247,1546637391
+dimwishlist:item=1764868900&perks=1821614984,1546637391
+dimwishlist:item=557165046&perks=3978468247,1546637391
+dimwishlist:item=1764868900&perks=3978468247,1546637391
 
 
 //Ragnhild-D
 //notes:Aegis Endgame D Tier - Rank 34.0
-dimwishlist:item=-4225322581&perks=3300816228,4104185692
-dimwishlist:item=-4225322581&perks=3300816228,2679249093
+dimwishlist:item=4225322581&perks=3300816228,4104185692
+dimwishlist:item=4225322581&perks=3300816228,2679249093
 
 
 //Scavenger's Fate
 //notes:Aegis Endgame D Tier - Rank 36.0
-dimwishlist:item=-2913577176&perks=3978468247,2048641572
-dimwishlist:item=-2913577176&perks=3978468247,3708227201
-dimwishlist:item=-2913577176&perks=3978468247,4104185692
-dimwishlist:item=-2913577176&perks=776531651,2048641572
-dimwishlist:item=-2913577176&perks=776531651,3708227201
-dimwishlist:item=-2913577176&perks=776531651,4104185692
+dimwishlist:item=2913577176&perks=3978468247,2048641572
+dimwishlist:item=2913577176&perks=3978468247,3708227201
+dimwishlist:item=2913577176&perks=3978468247,4104185692
+dimwishlist:item=2913577176&perks=776531651,2048641572
+dimwishlist:item=2913577176&perks=776531651,3708227201
+dimwishlist:item=2913577176&perks=776531651,4104185692
 
 
 //Gunnora's Axe
@@ -405,35 +405,35 @@ dimwishlist:item=-2913577176&perks=776531651,4104185692
 
 //Gunnora's Axe
 //notes:Aegis Endgame D Tier - Rank 38.0
-dimwishlist:item=-411397829&perks=3300816228,1546637391
+dimwishlist:item=411397829&perks=3300816228,1546637391
 
 
 //Gunnora's Axe
 //notes:Aegis Endgame D Tier - Rank 38.0
-dimwishlist:item=-487361141&perks=3300816228,1546637391
-dimwishlist:item=-411397829&perks=3300816228,2173046394
-dimwishlist:item=-487361141&perks=3300816228,2173046394
+dimwishlist:item=487361141&perks=3300816228,1546637391
+dimwishlist:item=411397829&perks=3300816228,2173046394
+dimwishlist:item=487361141&perks=3300816228,2173046394
 
 
 //No Reprieve
 //notes:Aegis Endgame E Tier - Rank 40.0
-dimwishlist:item=-2531963421&perks=3400784728,3708227201
-dimwishlist:item=-2531963421&perks=3400784728,2896038713
+dimwishlist:item=2531963421&perks=3400784728,3708227201
+dimwishlist:item=2531963421&perks=3400784728,2896038713
 
 
 //Last Man Standing
 //notes:Aegis Endgame E Tier - Rank 41.0
-dimwishlist:item=-4287947559&perks=4071163871,2679249093
+dimwishlist:item=4287947559&perks=4071163871,2679249093
 
 
 //Last Man Standing
 //notes:Aegis Endgame E Tier - Rank 41.0
-dimwishlist:item=-755130877&perks=4071163871,2679249093
+dimwishlist:item=755130877&perks=4071163871,2679249093
 
 
 //Astral Horizon
 //notes:Aegis Endgame E Tier - Rank 42.0
-dimwishlist:item=-2653171213&perks=4071163871,1546637391
+dimwishlist:item=2653171213&perks=4071163871,1546637391
 
 
 //Astral Horizon
@@ -442,13 +442,13 @@ dimwishlist:item=-2653171213&perks=4071163871,1546637391
 
 //Astral Horizon
 //notes:Aegis Endgame E Tier - Rank 42.0
-dimwishlist:item=-854379020&perks=4071163871,1546637391
+dimwishlist:item=854379020&perks=4071163871,1546637391
 
 
 //Astral Horizon
 //notes:Aegis Endgame E Tier - Rank 42.0
-dimwishlist:item=-2653171213&perks=4071163871,3751912585
-dimwishlist:item=-854379020&perks=4071163871,3751912585
+dimwishlist:item=2653171213&perks=4071163871,3751912585
+dimwishlist:item=854379020&perks=4071163871,3751912585
 
 
 //Mindbender's Ambition
@@ -465,41 +465,41 @@ dimwishlist:item=-854379020&perks=4071163871,3751912585
 
 //Mindbender's Ambition
 //notes:Aegis Endgame E Tier - Rank 43.0
-dimwishlist:item=-1586231351&perks=4071163871,1546637391
+dimwishlist:item=1586231351&perks=4071163871,1546637391
 
 
 //Mindbender's Ambition
 //notes:Aegis Endgame E Tier - Rank 43.0
-dimwishlist:item=-2074041946&perks=4071163871,1546637391
+dimwishlist:item=2074041946&perks=4071163871,1546637391
 
 
 //The Inquisitor
 //notes:Aegis Endgame F Tier - Rank 46.0
-dimwishlist:item=-2185327324&perks=3523296417,2610012052
+dimwishlist:item=2185327324&perks=3523296417,2610012052
 
 
 //The Inquisitor
 //notes:Aegis Endgame F Tier - Rank 46.0
-dimwishlist:item=-2653171212&perks=3523296417,2610012052
+dimwishlist:item=2653171212&perks=3523296417,2610012052
 
 
 //The Inquisitor
 //notes:Aegis Endgame F Tier - Rank 46.0
-dimwishlist:item=-2307365&perks=3523296417,2610012052
+dimwishlist:item=2307365&perks=3523296417,2610012052
 
 
 //The Inquisitor
 //notes:Aegis Endgame F Tier - Rank 46.0
-dimwishlist:item=-825554997&perks=3523296417,2610012052
-dimwishlist:item=-2185327324&perks=1354429876,2610012052
-dimwishlist:item=-2653171212&perks=1354429876,2610012052
-dimwishlist:item=-2307365&perks=1354429876,2610012052
-dimwishlist:item=-825554997&perks=1354429876,2610012052
+dimwishlist:item=825554997&perks=3523296417,2610012052
+dimwishlist:item=2185327324&perks=1354429876,2610012052
+dimwishlist:item=2653171212&perks=1354429876,2610012052
+dimwishlist:item=2307365&perks=1354429876,2610012052
+dimwishlist:item=825554997&perks=1354429876,2610012052
 
 
 //Reckless Endangerment
 //notes:Aegis Endgame F Tier - Rank 50.0
-dimwishlist:item=-3216652511&perks=509074078,4082225868
+dimwishlist:item=3216652511&perks=509074078,4082225868
 
 
 //The Supremacy
@@ -727,48 +727,48 @@ dimwishlist:item=3473290087&perks=1556840489,3523296417
 
 //Defiance of Yasmin
 //notes:Aegis Endgame D Tier - Rank 19.0
-dimwishlist:item=-3228096719&perks=1556840489,1771339417
+dimwishlist:item=3228096719&perks=1556840489,1771339417
 
 
 //Defiance of Yasmin
 //notes:Aegis Endgame D Tier - Rank 19.0
-dimwishlist:item=-3503019618&perks=1556840489,1771339417
-dimwishlist:item=-3228096719&perks=1556840489,3523296417
-dimwishlist:item=-3503019618&perks=1556840489,3523296417
-dimwishlist:item=-3228096719&perks=3700496672,1771339417
-dimwishlist:item=-3503019618&perks=3700496672,1771339417
-dimwishlist:item=-3228096719&perks=3700496672,3523296417
-dimwishlist:item=-3503019618&perks=3700496672,3523296417
-dimwishlist:item=-3228096719&perks=1774574192,1771339417
-dimwishlist:item=-3503019618&perks=1774574192,1771339417
-dimwishlist:item=-3228096719&perks=1774574192,3523296417
-dimwishlist:item=-3503019618&perks=1774574192,3523296417
+dimwishlist:item=3503019618&perks=1556840489,1771339417
+dimwishlist:item=3228096719&perks=1556840489,3523296417
+dimwishlist:item=3503019618&perks=1556840489,3523296417
+dimwishlist:item=3228096719&perks=3700496672,1771339417
+dimwishlist:item=3503019618&perks=3700496672,1771339417
+dimwishlist:item=3228096719&perks=3700496672,3523296417
+dimwishlist:item=3503019618&perks=3700496672,3523296417
+dimwishlist:item=3228096719&perks=1774574192,1771339417
+dimwishlist:item=3503019618&perks=1774574192,1771339417
+dimwishlist:item=3228096719&perks=1774574192,3523296417
+dimwishlist:item=3503019618&perks=1774574192,3523296417
 
 
 //Father's Sins
 //notes:Aegis Endgame D Tier - Rank 20.0
-dimwishlist:item=-3865728990&perks=3400784728,2896038713
-dimwishlist:item=-3865728990&perks=3700496672,2896038713
-dimwishlist:item=-3865728990&perks=1556840489,2896038713
+dimwishlist:item=3865728990&perks=3400784728,2896038713
+dimwishlist:item=3865728990&perks=3700496672,2896038713
+dimwishlist:item=3865728990&perks=1556840489,2896038713
 
 
 //A Distant Pull
 //notes:Aegis Endgame D Tier - Rank 21.0
-dimwishlist:item=-1769847435&perks=3400784728,2896038713
+dimwishlist:item=1769847435&perks=3400784728,2896038713
 
 
 //Locus Locutus
 //notes:Aegis Endgame D Tier - Rank 22.0
-dimwishlist:item=-4132072834&perks=3643424744,1771339417
-dimwishlist:item=-4132072834&perks=3643424744,2319119708
-dimwishlist:item=-4132072834&perks=3978468247,1771339417
-dimwishlist:item=-4132072834&perks=3978468247,2319119708
+dimwishlist:item=4132072834&perks=3643424744,1771339417
+dimwishlist:item=4132072834&perks=3643424744,2319119708
+dimwishlist:item=4132072834&perks=3978468247,1771339417
+dimwishlist:item=4132072834&perks=3978468247,2319119708
 
 
 //Volta Bracket
 //notes:Aegis Endgame D Tier - Rank 23.0
-dimwishlist:item=-3920310144&perks=968510818,3751912585
-dimwishlist:item=-3920310144&perks=968510818,1771339417
+dimwishlist:item=3920310144&perks=968510818,3751912585
+dimwishlist:item=3920310144&perks=968510818,1771339417
 
 
 //Occluded Finality
@@ -777,20 +777,20 @@ dimwishlist:item=-3920310144&perks=968510818,1771339417
 
 //Occluded Finality
 //notes:Aegis Endgame D Tier - Rank 25.0
-dimwishlist:item=-852551895&perks=3300816228,1771339417
-dimwishlist:item=-852551895&perks=3300816228,1546637391
-dimwishlist:item=-852551895&perks=3300816228,3523296417
+dimwishlist:item=852551895&perks=3300816228,1771339417
+dimwishlist:item=852551895&perks=3300816228,1546637391
+dimwishlist:item=852551895&perks=3300816228,3523296417
 
 
 //Thoughtless
 //notes:Aegis Endgame D Tier - Rank 26.0
-dimwishlist:item=-4067556514&perks=3643424744,1771339417
-dimwishlist:item=-4067556514&perks=3643424744,2896038713
+dimwishlist:item=4067556514&perks=3643424744,1771339417
+dimwishlist:item=4067556514&perks=3643424744,2896038713
 
 
 //Mechabre
 //notes:Aegis Endgame D Tier - Rank 27.0
-dimwishlist:item=-2477980485&perks=3400784728,1771339417
+dimwishlist:item=2477980485&perks=3400784728,1771339417
 
 
 //Mechabre
@@ -799,35 +799,35 @@ dimwishlist:item=-2477980485&perks=3400784728,1771339417
 
 //Mechabre
 //notes:Aegis Endgame D Tier - Rank 27.0
-dimwishlist:item=-2477980485&perks=3400784728,1546637391
-dimwishlist:item=-3871226707&perks=3400784728,1546637391
-dimwishlist:item=-1280894514&perks=3400784728,1546637391
-dimwishlist:item=-2477980485&perks=3523296417,1771339417
-dimwishlist:item=-2477980485&perks=3523296417,1546637391
-dimwishlist:item=-3871226707&perks=3523296417,1546637391
+dimwishlist:item=2477980485&perks=3400784728,1546637391
+dimwishlist:item=3871226707&perks=3400784728,1546637391
+dimwishlist:item=1280894514&perks=3400784728,1546637391
+dimwishlist:item=2477980485&perks=3523296417,1771339417
+dimwishlist:item=2477980485&perks=3523296417,1546637391
+dimwishlist:item=3871226707&perks=3523296417,1546637391
 
 
 //Luna Regolith III
 //notes:Aegis Endgame D Tier - Rank 28.0
-dimwishlist:item=-1948035256&perks=2284787283,1771339417
-dimwishlist:item=-1948035256&perks=2284787283,2319119708
-dimwishlist:item=-1948035256&perks=2284787283,3751912585
+dimwishlist:item=1948035256&perks=2284787283,1771339417
+dimwishlist:item=1948035256&perks=2284787283,2319119708
+dimwishlist:item=1948035256&perks=2284787283,3751912585
 
 
 //Last Foray
 //notes:Aegis Endgame D Tier - Rank 29.0
-dimwishlist:item=-1106635211&perks=968510818,3751912585
-dimwishlist:item=-1106635211&perks=968510818,4104185692
-dimwishlist:item=-1106635211&perks=968510818,4293542123
-dimwishlist:item=-1106635211&perks=3978468247,3751912585
-dimwishlist:item=-1106635211&perks=3978468247,4104185692
-dimwishlist:item=-1106635211&perks=3978468247,4293542123
+dimwishlist:item=1106635211&perks=968510818,3751912585
+dimwishlist:item=1106635211&perks=968510818,4104185692
+dimwishlist:item=1106635211&perks=968510818,4293542123
+dimwishlist:item=1106635211&perks=3978468247,3751912585
+dimwishlist:item=1106635211&perks=3978468247,4104185692
+dimwishlist:item=1106635211&perks=3978468247,4293542123
 
 
 //Albruna-D
 //notes:Aegis Endgame D Tier - Rank 31.0
-dimwishlist:item=-676270382&perks=2284787283,3751912585
-dimwishlist:item=-676270382&perks=2284787283,1771339417
+dimwishlist:item=676270382&perks=2284787283,3751912585
+dimwishlist:item=676270382&perks=2284787283,1771339417
 
 
 //Bite of the Fox
@@ -836,12 +836,12 @@ dimwishlist:item=-676270382&perks=2284787283,1771339417
 
 //Bite of the Fox
 //notes:Aegis Endgame D Tier - Rank 32.0
-dimwishlist:item=-1403800851&perks=968510818,1546637391
+dimwishlist:item=1403800851&perks=968510818,1546637391
 
 
 //Silicon Neuroma
 //notes:Aegis Endgame D Tier - Rank 33.0
-dimwishlist:item=-3355385170&perks=3400784728,1771339417
+dimwishlist:item=3355385170&perks=3400784728,1771339417
 
 
 //Silicon Neuroma
@@ -850,22 +850,22 @@ dimwishlist:item=-3355385170&perks=3400784728,1771339417
 
 //Silicon Neuroma
 //notes:Aegis Endgame D Tier - Rank 33.0
-dimwishlist:item=-1387987271&perks=3400784728,1771339417
-dimwishlist:item=-3355385170&perks=3400784728,2896038713
-dimwishlist:item=-1387987271&perks=3400784728,2896038713
-dimwishlist:item=-3355385170&perks=3400784728,3523296417
-dimwishlist:item=-1387987271&perks=3400784728,3523296417
+dimwishlist:item=1387987271&perks=3400784728,1771339417
+dimwishlist:item=3355385170&perks=3400784728,2896038713
+dimwishlist:item=1387987271&perks=3400784728,2896038713
+dimwishlist:item=3355385170&perks=3400784728,3523296417
+dimwishlist:item=1387987271&perks=3400784728,3523296417
 
 
 //Beloved
 //notes:Aegis Endgame E Tier - Rank 35.0
-dimwishlist:item=-3107853529&perks=1354429876,2551157718
+dimwishlist:item=3107853529&perks=1354429876,2551157718
 
 
 //Beloved
 //notes:Aegis Endgame E Tier - Rank 35.0
-dimwishlist:item=-4190932264&perks=1354429876,2551157718
-dimwishlist:item=-3107853529&perks=1354429876,4293542123
+dimwishlist:item=4190932264&perks=1354429876,2551157718
+dimwishlist:item=3107853529&perks=1354429876,4293542123
 
 
 //Persuader
@@ -878,12 +878,12 @@ dimwishlist:item=-3107853529&perks=1354429876,4293542123
 
 //Persuader
 //notes:Aegis Endgame E Tier - Rank 36.0
-dimwishlist:item=-781498181&perks=3978468247,2319119708
-dimwishlist:item=-781498181&perks=3978468247,2048641572
-dimwishlist:item=-781498181&perks=3978468247,3400784728
-dimwishlist:item=-781498181&perks=776531651,2319119708
-dimwishlist:item=-781498181&perks=776531651,2048641572
-dimwishlist:item=-781498181&perks=776531651,3400784728
+dimwishlist:item=781498181&perks=3978468247,2319119708
+dimwishlist:item=781498181&perks=3978468247,2048641572
+dimwishlist:item=781498181&perks=3978468247,3400784728
+dimwishlist:item=781498181&perks=776531651,2319119708
+dimwishlist:item=781498181&perks=776531651,2048641572
+dimwishlist:item=781498181&perks=776531651,3400784728
 
 
 //Sole Survivor
@@ -892,9 +892,9 @@ dimwishlist:item=-781498181&perks=776531651,3400784728
 
 //Sole Survivor
 //notes:Aegis Endgame E Tier - Rank 37.0
-dimwishlist:item=-1150492185&perks=1556840489,1771339417
-dimwishlist:item=-1150492185&perks=1556840489,1546637391
-dimwishlist:item=-1150492185&perks=1556840489,2173046394
+dimwishlist:item=1150492185&perks=1556840489,1771339417
+dimwishlist:item=1150492185&perks=1556840489,1546637391
+dimwishlist:item=1150492185&perks=1556840489,2173046394
 
 
 //Eye of Sol
@@ -907,39 +907,39 @@ dimwishlist:item=-1150492185&perks=1556840489,2173046394
 
 //Eye of Sol
 //notes:Aegis Endgame E Tier - Rank 39.0
-dimwishlist:item=-627188188&perks=1821614984,1771339417
+dimwishlist:item=627188188&perks=1821614984,1771339417
 
 
 //Eye of Sol
 //notes:Aegis Endgame E Tier - Rank 39.0
-dimwishlist:item=-1321626661&perks=1821614984,1771339417
+dimwishlist:item=1321626661&perks=1821614984,1771339417
 
 
 //Eye of Sol
 //notes:Aegis Endgame E Tier - Rank 39.0
-dimwishlist:item=-1401300690&perks=1821614984,1771339417
+dimwishlist:item=1401300690&perks=1821614984,1771339417
 
 
 //Eye of Sol
 //notes:Aegis Endgame E Tier - Rank 39.0
-dimwishlist:item=-2059255495&perks=1821614984,1771339417
-dimwishlist:item=-627188188&perks=1821614984,1546637391
-dimwishlist:item=-1321626661&perks=1821614984,1546637391
-dimwishlist:item=-1401300690&perks=1821614984,1546637391
-dimwishlist:item=-2059255495&perks=1821614984,1546637391
+dimwishlist:item=2059255495&perks=1821614984,1771339417
+dimwishlist:item=627188188&perks=1821614984,1546637391
+dimwishlist:item=1321626661&perks=1821614984,1546637391
+dimwishlist:item=1401300690&perks=1821614984,1546637391
+dimwishlist:item=2059255495&perks=1821614984,1546637391
 
 
 //Gallu RR3
 //notes:Aegis Endgame E Tier - Rank 40.0
-dimwishlist:item=-617501162&perks=3643424744,2896038713
-dimwishlist:item=-617501162&perks=3643424744,957782887
-dimwishlist:item=-617501162&perks=3700496672,2896038713
-dimwishlist:item=-617501162&perks=3700496672,957782887
+dimwishlist:item=617501162&perks=3643424744,2896038713
+dimwishlist:item=617501162&perks=3643424744,957782887
+dimwishlist:item=617501162&perks=3700496672,2896038713
+dimwishlist:item=617501162&perks=3700496672,957782887
 
 
 //The Domino
 //notes:Aegis Endgame F Tier - Rank 45.0
-dimwishlist:item=-2800870005&perks=3643424744,4293542123
+dimwishlist:item=2800870005&perks=3643424744,4293542123
 
 
 //The Domino
@@ -1127,26 +1127,26 @@ dimwishlist:item=3969066556&perks=2869569095,1427256713
 
 //Pressurized Precision
 //notes:Aegis Endgame D Tier - Rank 17.0
-dimwishlist:item=-1084190509&perks=3300816228,1546637391
-dimwishlist:item=-1084190509&perks=3978468247,1546637391
+dimwishlist:item=1084190509&perks=3300816228,1546637391
+dimwishlist:item=1084190509&perks=3978468247,1546637391
 
 
 //Iterative Loop
 //notes:Aegis Endgame D Tier - Rank 18.0
-dimwishlist:item=-1289796511&perks=1556840489,2173046394
-dimwishlist:item=-1289796511&perks=1556840489,3523296417
+dimwishlist:item=1289796511&perks=1556840489,2173046394
+dimwishlist:item=1289796511&perks=1556840489,3523296417
 
 
 //Burden of Guilt
 //notes:Aegis Endgame D Tier - Rank 19.0
-dimwishlist:item=-933455006&perks=1428297954,2978966579
+dimwishlist:item=933455006&perks=1428297954,2978966579
 
 
 //Burden of Guilt
 //notes:Aegis Endgame D Tier - Rank 19.0
-dimwishlist:item=-2002522739&perks=1428297954,2978966579
-dimwishlist:item=-933455006&perks=1428297954,1546637391
-dimwishlist:item=-2002522739&perks=1428297954,1546637391
+dimwishlist:item=2002522739&perks=1428297954,2978966579
+dimwishlist:item=933455006&perks=1428297954,1546637391
+dimwishlist:item=2002522739&perks=1428297954,1546637391
 
 
 //The Wizened Rebuke
@@ -1155,7 +1155,7 @@ dimwishlist:item=-2002522739&perks=1428297954,1546637391
 
 //The Wizened Rebuke
 //notes:Aegis Endgame E Tier - Rank 22.0
-dimwishlist:item=-2290416&perks=509074078,1546637391
+dimwishlist:item=2290416&perks=509074078,1546637391
 
 
 //The Wizened Rebuke
@@ -1164,34 +1164,34 @@ dimwishlist:item=-2290416&perks=509074078,1546637391
 
 //The Wizened Rebuke
 //notes:Aegis Endgame E Tier - Rank 22.0
-dimwishlist:item=-1999697514&perks=509074078,1546637391
+dimwishlist:item=1999697514&perks=509074078,1546637391
 
 
 //Snorri FR5
 //notes:Aegis Endgame E Tier - Rank 25.0
-dimwishlist:item=-4114929480&perks=3436462433,4104185692
-dimwishlist:item=-4114929480&perks=3436462433,1427256713
+dimwishlist:item=4114929480&perks=3436462433,4104185692
+dimwishlist:item=4114929480&perks=3436462433,1427256713
 
 
 //Aurvandil FR6
 //notes:Aegis Endgame E Tier - Rank 26.0
-dimwishlist:item=-963710795&perks=1523832109,2978966579
+dimwishlist:item=963710795&perks=1523832109,2978966579
 
 
 //Likely Suspect
 //notes:Aegis Endgame F Tier - Rank 27.0
-dimwishlist:item=-1994645182&perks=2039302152,2610012052
+dimwishlist:item=1994645182&perks=2039302152,2610012052
 
 
 //Trinary System
 //notes:Aegis Endgame F Tier - Rank 28.0
-dimwishlist:item=-3258665412&perks=3300816228,2213355989
-dimwishlist:item=-3258665412&perks=3300816228,3523296417
+dimwishlist:item=3258665412&perks=3300816228,2213355989
+dimwishlist:item=3258665412&perks=3300816228,3523296417
 
 
 //The Epicurean
 //notes:Aegis Endgame F Tier - Rank 31.0
-dimwishlist:item=-2263839058&perks=2621346526,776531651
+dimwishlist:item=2263839058&perks=2621346526,776531651
 
 
 //The Epicurean
@@ -1480,18 +1480,18 @@ dimwishlist:item=1125217994&perks=1556840489,3201496230
 
 //Empty Vessel
 //notes:Aegis Endgame D Tier - Rank 20.0
-dimwishlist:item=-4255586669&perks=3300816228,3523296417
-dimwishlist:item=-4255586669&perks=3300816228,1546637391
-dimwishlist:item=-4255586669&perks=1556840489,3523296417
-dimwishlist:item=-4255586669&perks=1556840489,1546637391
+dimwishlist:item=4255586669&perks=3300816228,3523296417
+dimwishlist:item=4255586669&perks=3300816228,1546637391
+dimwishlist:item=4255586669&perks=1556840489,3523296417
+dimwishlist:item=4255586669&perks=1556840489,1546637391
 
 
 //Prodigal Return
 //notes:Aegis Endgame E Tier - Rank 23.0
-dimwishlist:item=-268260373&perks=1556840489,2173046394
-dimwishlist:item=-268260373&perks=1556840489,3523296417
-dimwishlist:item=-268260373&perks=968510818,2173046394
-dimwishlist:item=-268260373&perks=968510818,3523296417
+dimwishlist:item=268260373&perks=1556840489,2173046394
+dimwishlist:item=268260373&perks=1556840489,3523296417
+dimwishlist:item=268260373&perks=968510818,2173046394
+dimwishlist:item=268260373&perks=968510818,3523296417
 
 
 //Truthteller
@@ -1500,7 +1500,7 @@ dimwishlist:item=-268260373&perks=968510818,3523296417
 
 //Truthteller
 //notes:Aegis Endgame F Tier - Rank 24.0
-dimwishlist:item=-447296102&perks=1631667848,776531651
+dimwishlist:item=447296102&perks=1631667848,776531651
 
 
 //Truthteller
@@ -1696,26 +1696,26 @@ dimwishlist:item=1471212226&perks=2869569095,4293542123
 
 //Incisor
 //notes:Aegis Endgame D Tier - Rank 7.0
-dimwishlist:item=-2421180981&perks=923806249,243981275
+dimwishlist:item=2421180981&perks=923806249,243981275
 
 
 //Incisor
 //notes:Aegis Endgame D Tier - Rank 7.0
-dimwishlist:item=-2839600459&perks=923806249,243981275
+dimwishlist:item=2839600459&perks=923806249,243981275
 
 
 //Incisor
 //notes:Aegis Endgame D Tier - Rank 7.0
-dimwishlist:item=-4248997900&perks=923806249,243981275
+dimwishlist:item=4248997900&perks=923806249,243981275
 
 
 //Incisor
 //notes:Aegis Endgame D Tier - Rank 7.0
-dimwishlist:item=-1711056134&perks=923806249,243981275
-dimwishlist:item=-2421180981&perks=923806249,831391274
-dimwishlist:item=-2839600459&perks=923806249,831391274
-dimwishlist:item=-4248997900&perks=923806249,831391274
-dimwishlist:item=-1711056134&perks=923806249,831391274
+dimwishlist:item=1711056134&perks=923806249,243981275
+dimwishlist:item=2421180981&perks=923806249,831391274
+dimwishlist:item=2839600459&perks=923806249,831391274
+dimwishlist:item=4248997900&perks=923806249,831391274
+dimwishlist:item=1711056134&perks=923806249,831391274
 
 
 //Aberrant Action
@@ -2001,43 +2001,39 @@ dimwishlist:item=3103325054&perks=2869569095,2610012052
 
 //Planck's Stride
 //notes:Aegis Endgame D Tier - Rank 19.0
-dimwishlist:item=-820890091&perks=1631667848,4082225868
-dimwishlist:item=-820890091&perks=1631667848,691659142
+dimwishlist:item=820890091&perks=1631667848,4082225868
+dimwishlist:item=820890091&perks=1631667848,691659142
 
 
 //Qullim's Terminus
 //notes:Aegis Endgame D Tier - Rank 20.0
-dimwishlist:item=-3248429089&perks=2621346526,3824105627
+dimwishlist:item=3248429089&perks=2621346526,3824105627
 
 
 //Qullim's Terminus
 //notes:Aegis Endgame D Tier - Rank 20.0
-dimwishlist:item=-1321506184&perks=2621346526,3824105627
-dimwishlist:item=-3248429089&perks=2621346526,124408337
-dimwishlist:item=-1321506184&perks=2621346526,124408337
-dimwishlist:item=-3248429089&perks=2621346526,557221067
-dimwishlist:item=-1321506184&perks=2621346526,557221067
-dimwishlist:item=-3248429089&perks=3108830275,3824105627
-dimwishlist:item=-1321506184&perks=3108830275,3824105627
-dimwishlist:item=-3248429089&perks=3108830275,124408337
-dimwishlist:item=-1321506184&perks=3108830275,124408337
-dimwishlist:item=-3248429089&perks=3108830275,557221067
-dimwishlist:item=-1321506184&perks=3108830275,557221067
+dimwishlist:item=1321506184&perks=2621346526,3824105627
+dimwishlist:item=3248429089&perks=2621346526,124408337
+dimwishlist:item=1321506184&perks=2621346526,124408337
+dimwishlist:item=3248429089&perks=2621346526,557221067
+dimwishlist:item=1321506184&perks=2621346526,557221067
+dimwishlist:item=3248429089&perks=3108830275,3824105627
+dimwishlist:item=1321506184&perks=3108830275,3824105627
+dimwishlist:item=3248429089&perks=3108830275,124408337
+dimwishlist:item=1321506184&perks=3108830275,124408337
+dimwishlist:item=3248429089&perks=3108830275,557221067
+dimwishlist:item=1321506184&perks=3108830275,557221067
 
 
 //Circular Logic
 //notes:Aegis Endgame D Tier - Rank 21.0
-dimwishlist:item=-2187717691&perks=968510818,2610012052
-dimwishlist:item=-2187717691&perks=968510818,3523296417
+dimwishlist:item=2187717691&perks=968510818,2610012052
+dimwishlist:item=2187717691&perks=968510818,3523296417
 
 
 //THE SWARM
 //notes:Aegis Endgame F Tier - Rank 24.0
-dimwishlist:item=-2759590322&perks=2779035018,2848615171
-
-
-//THE SWARM
-//notes:Aegis Endgame F Tier - Rank 24.0
+dimwishlist:item=2759590322&perks=2779035018,2848615171
 
 
 //THE SWARM
@@ -2046,15 +2042,19 @@ dimwishlist:item=-2759590322&perks=2779035018,2848615171
 
 //THE SWARM
 //notes:Aegis Endgame F Tier - Rank 24.0
-dimwishlist:item=-566740455&perks=2779035018,2848615171
-dimwishlist:item=-2759590322&perks=2779035018,2610012052
-dimwishlist:item=-566740455&perks=2779035018,2610012052
+
+
+//THE SWARM
+//notes:Aegis Endgame F Tier - Rank 24.0
+dimwishlist:item=566740455&perks=2779035018,2848615171
+dimwishlist:item=2759590322&perks=2779035018,2610012052
+dimwishlist:item=566740455&perks=2779035018,2610012052
 
 
 //Eleatic Principle
 //notes:Aegis Endgame F Tier - Rank 25.0
-dimwishlist:item=-105306149&perks=2621346526,2610012052
-dimwishlist:item=-105306149&perks=2621346526,365154968
+dimwishlist:item=105306149&perks=2621346526,2610012052
+dimwishlist:item=105306149&perks=2621346526,365154968
 
 
 //VS Chill Inhibitor
@@ -2237,40 +2237,40 @@ dimwishlist:item=1854753404&perks=3300816228,3194351027
 
 //Swarm of the Raven
 //notes:Aegis Endgame D Tier - Rank 13.0
-dimwishlist:item=-433905699&perks=3300816228,3751912585
+dimwishlist:item=433905699&perks=3300816228,3751912585
 
 
 //Swarm of the Raven
 //notes:Aegis Endgame D Tier - Rank 13.0
-dimwishlist:item=-433905699&perks=2284787283,3751912585
+dimwishlist:item=433905699&perks=2284787283,3751912585
 
 
 //Typhon GL5
 //notes:Aegis Endgame D Tier - Rank 15.0
-dimwishlist:item=-3568377122&perks=3523296417,3194351027
+dimwishlist:item=3568377122&perks=3523296417,3194351027
 
 
 //Dimensional Hypotrochoid
 //notes:Aegis Endgame D Tier - Rank 16.0
-dimwishlist:item=-1311684613&perks=968510818,1546637391
-dimwishlist:item=-1311684613&perks=968510818,2396489472
-dimwishlist:item=-1311684613&perks=2869569095,1546637391
-dimwishlist:item=-1311684613&perks=2869569095,2396489472
+dimwishlist:item=1311684613&perks=968510818,1546637391
+dimwishlist:item=1311684613&perks=968510818,2396489472
+dimwishlist:item=1311684613&perks=2869569095,1546637391
+dimwishlist:item=1311684613&perks=2869569095,2396489472
 
 
 //Cry Mutiny
 //notes:Aegis Endgame E Tier - Rank 17.0
-dimwishlist:item=-616582330&perks=3523296417,1546637391
+dimwishlist:item=616582330&perks=3523296417,1546637391
 
 
 //Tarnation
 //notes:Aegis Endgame F Tier - Rank 20.0
-dimwishlist:item=-2721157927&perks=2284787283,4049631843
+dimwishlist:item=2721157927&perks=2284787283,4049631843
 
 
 //Crowd Pleaser
 //notes:Aegis Endgame F Tier - Rank 22.0
-dimwishlist:item=-3565520715&perks=2284787283,3523296417
+dimwishlist:item=3565520715&perks=2284787283,3523296417
 
 
 //Falling Guillotine
@@ -2457,17 +2457,17 @@ dimwishlist:item=569799274&perks=1749209109,3913600130
 
 //Half-Truths
 //notes:Aegis Endgame D Tier - Rank 20.0
-dimwishlist:item=-3257091166&perks=1749209109,2077819806
+dimwishlist:item=3257091166&perks=1749209109,2077819806
 
 
 //Caretaker
 //notes:Aegis Endgame D Tier - Rank 21.0
-dimwishlist:item=-2508948099&perks=1749209109,3708227201
+dimwishlist:item=2508948099&perks=1749209109,3708227201
 
 
 //Throne-Cleaver
 //notes:Aegis Endgame D Tier - Rank 25.0
-dimwishlist:item=-3371413059&perks=3705817207,3708227201
+dimwishlist:item=3371413059&perks=3705817207,3708227201
 
 
 //Throne-Cleaver
@@ -2476,23 +2476,23 @@ dimwishlist:item=-3371413059&perks=3705817207,3708227201
 
 //Dragoncult Sickle
 //notes:Aegis Endgame E Tier - Rank 26.0
-dimwishlist:item=-3668817296&perks=3705817207,3708227201
-dimwishlist:item=-3668817296&perks=3705817207,3913600130
+dimwishlist:item=3668817296&perks=3705817207,3708227201
+dimwishlist:item=3668817296&perks=3705817207,3913600130
 
 
 //Razor's Edge
 //notes:Aegis Endgame E Tier - Rank 29.0
-dimwishlist:item=-1796949035&perks=1749209109,4104185692
+dimwishlist:item=1796949035&perks=1749209109,4104185692
 
 
 //Chivalric Fire
 //notes:Aegis Endgame F Tier - Rank 31.0
-dimwishlist:item=-3438139008&perks=776531651,2048641572
+dimwishlist:item=3438139008&perks=776531651,2048641572
 
 
 //Thin Precipice
 //notes:Aegis Endgame F Tier - Rank 32.0
-dimwishlist:item=-4066778670&perks=1749209109,2610012052
+dimwishlist:item=4066778670&perks=1749209109,2610012052
 
 
 //Tomorrow's Answer
@@ -2689,10 +2689,10 @@ dimwishlist:item=3489657138&perks=3300816228,3194351027
 
 //Royal Entry
 //notes:Aegis Endgame D Tier - Rank 23.0
-dimwishlist:item=-2448907086&perks=2869569095,2284787283
-dimwishlist:item=-2448907086&perks=2869569095,3927722942
-dimwishlist:item=-2448907086&perks=3300816228,2284787283
-dimwishlist:item=-2448907086&perks=3300816228,3927722942
+dimwishlist:item=2448907086&perks=2869569095,2284787283
+dimwishlist:item=2448907086&perks=2869569095,3927722942
+dimwishlist:item=2448907086&perks=3300816228,2284787283
+dimwishlist:item=2448907086&perks=3300816228,3927722942
 
 
 //Scintillation
@@ -2795,14 +2795,20 @@ dimwishlist:item=2272041093&perks=2869569095,4104185692
 
 //Sailspy Pitchglass
 //notes:Aegis Endgame D Tier - Rank 12.0
-dimwishlist:item=-1184309824&perks=2284787283,2896038713
-dimwishlist:item=-1184309824&perks=2284787283,4104185692
+dimwishlist:item=1184309824&perks=2284787283,2896038713
+dimwishlist:item=1184309824&perks=2284787283,4104185692
 
 
 //Laser Painter
 //notes:Aegis Endgame D Tier - Rank 13.0
-dimwishlist:item=-3221722018&perks=2284787283,2896038713
-dimwishlist:item=-3221722018&perks=3300816228,2896038713
+dimwishlist:item=3221722018&perks=2284787283,2896038713
+dimwishlist:item=3221722018&perks=3300816228,2896038713
+
+
+//Veiled Threat
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3685470415&perks=3700496672,2109543898
+dimwishlist:item=3685470415&perks=243981275,2109543898
 
 
 //Breakneck
@@ -2811,159 +2817,234 @@ dimwishlist:item=-3221722018&perks=3300816228,2896038713
 
 //Breakneck
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2026755633&perks=3828510309,3891536761
-dimwishlist:item=-2026755633&perks=3828510309,95528736
-dimwishlist:item=-2026755633&perks=3828510309,3993379141
-dimwishlist:item=-2026755633&perks=3828510309,1164602481
-dimwishlist:item=-2026755633&perks=1820235745,3891536761
-dimwishlist:item=-324382200&perks=1820235745,95528736
-dimwishlist:item=-2026755633&perks=1820235745,95528736
-dimwishlist:item=-2026755633&perks=1820235745,3993379141
-dimwishlist:item=-2026755633&perks=1820235745,1164602481
-dimwishlist:item=-2026755633&perks=3700496672,3891536761
-dimwishlist:item=-2026755633&perks=3700496672,95528736
-dimwishlist:item=-2026755633&perks=3700496672,3993379141
-dimwishlist:item=-2026755633&perks=3700496672,1164602481
+dimwishlist:item=2026755633&perks=3828510309,3891536761
+dimwishlist:item=2026755633&perks=3828510309,95528736
+dimwishlist:item=2026755633&perks=3828510309,3993379141
+dimwishlist:item=2026755633&perks=3828510309,1164602481
+dimwishlist:item=2026755633&perks=1820235745,3891536761
+dimwishlist:item=324382200&perks=1820235745,95528736
+dimwishlist:item=2026755633&perks=1820235745,95528736
+dimwishlist:item=2026755633&perks=1820235745,3993379141
+dimwishlist:item=2026755633&perks=1820235745,1164602481
+dimwishlist:item=2026755633&perks=3700496672,3891536761
+dimwishlist:item=2026755633&perks=3700496672,95528736
+dimwishlist:item=2026755633&perks=3700496672,3993379141
+dimwishlist:item=2026755633&perks=3700496672,1164602481
+
+
+//The Summoner
+//notes:Aegis Endgame  Tier - Rank 
+
+
+//The Summoner
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1292594730&perks=1820235745,4293542123
+
+
+//The Summoner
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1820994983&perks=1820235745,4293542123
+
+
+//The Summoner
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1292594730&perks=1820235745,95528736
+dimwishlist:item=1820994983&perks=1820235745,95528736
+dimwishlist:item=1292594730&perks=3017780555,4293542123
+dimwishlist:item=1820994983&perks=3017780555,4293542123
+dimwishlist:item=1292594730&perks=3017780555,95528736
+dimwishlist:item=1820994983&perks=3017780555,95528736
 
 
 //No Hesitation
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1801007332&perks=2980589453,4293542123
-dimwishlist:item=-1801007332&perks=2980589453,2298656195
-dimwishlist:item=-1801007332&perks=3523296417,4293542123
-dimwishlist:item=-1801007332&perks=3523296417,2298656195
+dimwishlist:item=1801007332&perks=2980589453,4293542123
+dimwishlist:item=1801007332&perks=2980589453,2298656195
+dimwishlist:item=1801007332&perks=3523296417,4293542123
+dimwishlist:item=1801007332&perks=3523296417,2298656195
+
+
+//Raconteur
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=45643573&perks=201365942,3365897133
+dimwishlist:item=45643573&perks=201365942,124408337
+dimwishlist:item=45643573&perks=3700496672,3365897133
+dimwishlist:item=45643573&perks=3700496672,124408337
 
 
 //Accrued Redemption
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-3621336854&perks=201365942,3891536761
+dimwishlist:item=3621336854&perks=201365942,3891536761
 
 
 //Accrued Redemption
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-3621336854&perks=201365942,3824105627
-dimwishlist:item=-3621336854&perks=201365942,3365897133
-dimwishlist:item=-4095896073&perks=201365942,3365897133
+dimwishlist:item=3621336854&perks=201365942,3824105627
+dimwishlist:item=3621336854&perks=201365942,3365897133
+dimwishlist:item=4095896073&perks=201365942,3365897133
+
+
+//Tyranny of Heaven
+//notes:Aegis Endgame  Tier - Rank 
+
+
+//Tyranny of Heaven
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3388655311&perks=2848615171,4293542123
 
 
 //Non-Denouement
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1039915310&perks=2848615171,2173046394
+dimwishlist:item=1039915310&perks=2848615171,2173046394
 
 
 //Non-Denouement
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1770490683&perks=2848615171,2173046394
-dimwishlist:item=-1039915310&perks=2848615171,3365897133
-dimwishlist:item=-1770490683&perks=2848615171,3365897133
-dimwishlist:item=-1039915310&perks=2848615171,3414324643
-dimwishlist:item=-1770490683&perks=2848615171,3414324643
-dimwishlist:item=-1039915310&perks=201365942,2173046394
-dimwishlist:item=-1770490683&perks=201365942,2173046394
-dimwishlist:item=-1039915310&perks=201365942,3365897133
-dimwishlist:item=-1770490683&perks=201365942,3365897133
-dimwishlist:item=-1039915310&perks=201365942,3414324643
-dimwishlist:item=-1770490683&perks=201365942,3414324643
-dimwishlist:item=-1039915310&perks=3700496672,2173046394
-dimwishlist:item=-1770490683&perks=3700496672,2173046394
-dimwishlist:item=-1039915310&perks=3700496672,3365897133
-dimwishlist:item=-1770490683&perks=3700496672,3365897133
-dimwishlist:item=-1039915310&perks=3700496672,3414324643
-dimwishlist:item=-1770490683&perks=3700496672,3414324643
+dimwishlist:item=1770490683&perks=2848615171,2173046394
+dimwishlist:item=1039915310&perks=2848615171,3365897133
+dimwishlist:item=1770490683&perks=2848615171,3365897133
+dimwishlist:item=1039915310&perks=2848615171,3414324643
+dimwishlist:item=1770490683&perks=2848615171,3414324643
+dimwishlist:item=1039915310&perks=201365942,2173046394
+dimwishlist:item=1770490683&perks=201365942,2173046394
+dimwishlist:item=1039915310&perks=201365942,3365897133
+dimwishlist:item=1770490683&perks=201365942,3365897133
+dimwishlist:item=1039915310&perks=201365942,3414324643
+dimwishlist:item=1770490683&perks=201365942,3414324643
+dimwishlist:item=1039915310&perks=3700496672,2173046394
+dimwishlist:item=1770490683&perks=3700496672,2173046394
+dimwishlist:item=1039915310&perks=3700496672,3365897133
+dimwishlist:item=1770490683&perks=3700496672,3365897133
+dimwishlist:item=1039915310&perks=3700496672,3414324643
+dimwishlist:item=1770490683&perks=3700496672,3414324643
+
+
+//Hush
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3962575203&perks=3700496672,3365897133
+
+
+//Hush
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3962575203&perks=3700496672,4293542123
+dimwishlist:item=3962575203&perks=3700496672,3414324643
+dimwishlist:item=3962575203&perks=201365942,3365897133
+dimwishlist:item=3962575203&perks=201365942,4293542123
+dimwishlist:item=3962575203&perks=201365942,3414324643
+dimwishlist:item=3962575203&perks=243981275,3365897133
+dimwishlist:item=3962575203&perks=243981275,4293542123
+dimwishlist:item=3962575203&perks=243981275,3414324643
 
 
 //Pre Astyanax IV
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2932922810&perks=3700496672,3365897133
+dimwishlist:item=2932922810&perks=3700496672,3365897133
 
 
 //Pre Astyanax IV
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-192784503&perks=3700496672,3365897133
+dimwishlist:item=192784503&perks=3700496672,3365897133
 
 
 //Pre Astyanax IV
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-496556698&perks=3700496672,3365897133
+dimwishlist:item=496556698&perks=3700496672,3365897133
 
 
 //Pre Astyanax IV
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2063217087&perks=3700496672,3365897133
-dimwishlist:item=-2932922810&perks=3700496672,4293542123
-dimwishlist:item=-192784503&perks=3700496672,4293542123
-dimwishlist:item=-496556698&perks=3700496672,4293542123
-dimwishlist:item=-2063217087&perks=3700496672,4293542123
-dimwishlist:item=-2932922810&perks=3700496672,3414324643
-dimwishlist:item=-2063217087&perks=3700496672,3414324643
-dimwishlist:item=-2932922810&perks=201365942,3365897133
-dimwishlist:item=-192784503&perks=201365942,3365897133
-dimwishlist:item=-496556698&perks=201365942,3365897133
-dimwishlist:item=-2063217087&perks=201365942,3365897133
-dimwishlist:item=-2932922810&perks=201365942,4293542123
-dimwishlist:item=-192784503&perks=201365942,4293542123
-dimwishlist:item=-496556698&perks=201365942,4293542123
-dimwishlist:item=-2063217087&perks=201365942,4293542123
-dimwishlist:item=-2932922810&perks=201365942,3414324643
-dimwishlist:item=-2063217087&perks=201365942,3414324643
-dimwishlist:item=-2932922810&perks=243981275,3365897133
-dimwishlist:item=-2063217087&perks=243981275,3365897133
-dimwishlist:item=-2932922810&perks=243981275,4293542123
-dimwishlist:item=-2063217087&perks=243981275,4293542123
-dimwishlist:item=-2932922810&perks=243981275,3414324643
-dimwishlist:item=-2063217087&perks=243981275,3414324643
+dimwishlist:item=2063217087&perks=3700496672,3365897133
+dimwishlist:item=2932922810&perks=3700496672,4293542123
+dimwishlist:item=192784503&perks=3700496672,4293542123
+dimwishlist:item=496556698&perks=3700496672,4293542123
+dimwishlist:item=2063217087&perks=3700496672,4293542123
+dimwishlist:item=2932922810&perks=3700496672,3414324643
+dimwishlist:item=2063217087&perks=3700496672,3414324643
+dimwishlist:item=2932922810&perks=201365942,3365897133
+dimwishlist:item=192784503&perks=201365942,3365897133
+dimwishlist:item=496556698&perks=201365942,3365897133
+dimwishlist:item=2063217087&perks=201365942,3365897133
+dimwishlist:item=2932922810&perks=201365942,4293542123
+dimwishlist:item=192784503&perks=201365942,4293542123
+dimwishlist:item=496556698&perks=201365942,4293542123
+dimwishlist:item=2063217087&perks=201365942,4293542123
+dimwishlist:item=2932922810&perks=201365942,3414324643
+dimwishlist:item=2063217087&perks=201365942,3414324643
+dimwishlist:item=2932922810&perks=243981275,3365897133
+dimwishlist:item=2063217087&perks=243981275,3365897133
+dimwishlist:item=2932922810&perks=243981275,4293542123
+dimwishlist:item=2063217087&perks=243981275,4293542123
+dimwishlist:item=2932922810&perks=243981275,3414324643
+dimwishlist:item=2063217087&perks=243981275,3414324643
+
+
+//Fatebringer
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+
+
+//Fatebringer
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3038247973,4104185692
+dimwishlist:item=1216319404&perks=3038247973,4104185692
 
 
 //Midnight Coup
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2499720827&perks=3824105627,4104185692
+dimwishlist:item=2499720827&perks=3824105627,4104185692
 
 
 //Midnight Coup
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2763843898&perks=3824105627,4104185692
+dimwishlist:item=2763843898&perks=3824105627,4104185692
 
 
 //Midnight Coup
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2499720827&perks=3824105627,3891536761
-dimwishlist:item=-2763843898&perks=3824105627,3891536761
-dimwishlist:item=-2499720827&perks=3824105627,4049631843
-dimwishlist:item=-2763843898&perks=3824105627,4049631843
-dimwishlist:item=-2499720827&perks=3700496672,4104185692
-dimwishlist:item=-2763843898&perks=3700496672,4104185692
-dimwishlist:item=-2499720827&perks=3700496672,3891536761
-dimwishlist:item=-2763843898&perks=3700496672,3891536761
-dimwishlist:item=-2499720827&perks=3700496672,4049631843
-dimwishlist:item=-2763843898&perks=3700496672,4049631843
-dimwishlist:item=-2499720827&perks=3038247973,4104185692
-dimwishlist:item=-2763843898&perks=3038247973,4104185692
-dimwishlist:item=-2499720827&perks=3038247973,3891536761
-dimwishlist:item=-2763843898&perks=3038247973,3891536761
-dimwishlist:item=-2499720827&perks=3038247973,4049631843
-dimwishlist:item=-2763843898&perks=3038247973,4049631843
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3824105627,4049631843
+dimwishlist:item=2763843898&perks=3824105627,4049631843
+dimwishlist:item=2499720827&perks=3700496672,4104185692
+dimwishlist:item=2763843898&perks=3700496672,4104185692
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+dimwishlist:item=2763843898&perks=3700496672,3891536761
+dimwishlist:item=2499720827&perks=3700496672,4049631843
+dimwishlist:item=2763843898&perks=3700496672,4049631843
+dimwishlist:item=2499720827&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=3038247973,4049631843
+dimwishlist:item=2763843898&perks=3038247973,4049631843
+
+
+//Posterity
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3281285075&perks=2173046394,4104185692
 
 
 //Zaouli's Bane
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-291092617&perks=3038247973,4293542123
+dimwishlist:item=291092617&perks=3038247973,4293542123
 
 
 //Zaouli's Bane
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-431721920&perks=3038247973,4293542123
-dimwishlist:item=-291092617&perks=3038247973,3824105627
-dimwishlist:item=-431721920&perks=3038247973,3824105627
+dimwishlist:item=431721920&perks=3038247973,4293542123
+dimwishlist:item=291092617&perks=3038247973,3824105627
+dimwishlist:item=431721920&perks=3038247973,3824105627
 
 
 //Warden's Law
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2152484073&perks=3828510309,1546637391
+dimwishlist:item=2152484073&perks=3828510309,1546637391
 
 
 //Warden's Law
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-3250744600&perks=3828510309,1546637391
+dimwishlist:item=3250744600&perks=3828510309,1546637391
 
 
 //Warden's Law
@@ -2972,91 +3053,205 @@ dimwishlist:item=-3250744600&perks=3828510309,1546637391
 
 //Warden's Law
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-267089201&perks=3828510309,1546637391
+dimwishlist:item=267089201&perks=3828510309,1546637391
 
 
 //Warden's Law
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1821529912&perks=3828510309,1546637391
+dimwishlist:item=1821529912&perks=3828510309,1546637391
+
+
+//Maahes HC4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1246793994&perks=3828510309,4104185692
+dimwishlist:item=1246793994&perks=247725512,4104185692
 
 
 //Yesterday's Question
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2300143112&perks=247725512,1546637391
+dimwishlist:item=2300143112&perks=247725512,1546637391
 
 
 //Yesterday's Question
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2378785953&perks=247725512,1546637391
+dimwishlist:item=2378785953&perks=247725512,1546637391
+
+
+//Chattering Bone
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=501329015&perks=247725512,3891536761
+
+
+//Chattering Bone
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=501329015&perks=1015611457,3891536761
 
 
 //Blast Furnace
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2372514508&perks=3891536761,4104185692
+dimwishlist:item=2372514508&perks=3891536761,4104185692
 
 
 //Blast Furnace
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2533990645&perks=3891536761,4104185692
+dimwishlist:item=2533990645&perks=3891536761,4104185692
 
 
 //Blast Furnace
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2372514508&perks=3891536761,3824105627
-dimwishlist:item=-2533990645&perks=3891536761,3824105627
-dimwishlist:item=-2372514508&perks=3700496672,4104185692
-dimwishlist:item=-2533990645&perks=3700496672,4104185692
-dimwishlist:item=-2372514508&perks=3700496672,3824105627
-dimwishlist:item=-2533990645&perks=3700496672,3824105627
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2533990645&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3700496672,4104185692
+dimwishlist:item=2533990645&perks=3700496672,4104185692
+dimwishlist:item=2372514508&perks=3700496672,3824105627
+dimwishlist:item=2533990645&perks=3700496672,3824105627
+
+
+//Gridskipper
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3433930495&perks=776531651,2048641572
+
+
+//Gridskipper
+//notes:Aegis Endgame  Tier - Rank 
 
 
 //Nullify
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-859869931&perks=3824105627,4293542123
+dimwishlist:item=859869931&perks=3824105627,4293542123
 
 
 //Nullify
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-892183998&perks=3824105627,4293542123
-dimwishlist:item=-859869931&perks=3017780555,4293542123
-dimwishlist:item=-892183998&perks=3017780555,4293542123
+dimwishlist:item=892183998&perks=3824105627,4293542123
+dimwishlist:item=859869931&perks=3017780555,4293542123
+dimwishlist:item=892183998&perks=3017780555,4293542123
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=2883684343&perks=3700496672,3824105627
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3832743906&perks=3700496672,3824105627
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=4074251943&perks=3700496672,3824105627
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=205225492&perks=3700496672,3824105627
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=772231794&perks=3700496672,3824105627
+
+
+//Hung Jury SR4
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1453235079&perks=3700496672,3824105627
+dimwishlist:item=4074251943&perks=3700496672,3038247973
+dimwishlist:item=205225492&perks=3700496672,3038247973
+dimwishlist:item=772231794&perks=3700496672,3038247973
+dimwishlist:item=1453235079&perks=3700496672,3038247973
+dimwishlist:item=2883684343&perks=3891536761,3824105627
+dimwishlist:item=3832743906&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3038247973
 
 
 //Randy's Throwing Knife
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-3292795429&perks=247725512,3891536761
+dimwishlist:item=3292795429&perks=247725512,3891536761
 
 
 //Randy's Throwing Knife
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-3292795429&perks=247725512,1048183818
-dimwishlist:item=-3292795429&perks=1870851715,3891536761
-dimwishlist:item=-3292795429&perks=1870851715,1048183818
+dimwishlist:item=3292795429&perks=247725512,1048183818
+dimwishlist:item=3292795429&perks=1870851715,3891536761
+dimwishlist:item=3292795429&perks=1870851715,1048183818
+
+
+//Doom of Chelchis
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1184692845&perks=3824105627,2848615171
+
+
+//Doom of Chelchis
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+dimwishlist:item=1184692845&perks=3824105627,4104185692
+dimwishlist:item=1937552980&perks=3824105627,4104185692
+dimwishlist:item=1184692845&perks=3038247973,2848615171
+dimwishlist:item=1937552980&perks=3038247973,2848615171
+dimwishlist:item=1184692845&perks=3038247973,4104185692
+dimwishlist:item=1937552980&perks=3038247973,4104185692
 
 
 //Timeworn Wayfarer
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1058098236&perks=3017780555,4293542123
-dimwishlist:item=-1058098236&perks=3700496672,4293542123
+dimwishlist:item=1058098236&perks=3017780555,4293542123
+dimwishlist:item=1058098236&perks=3700496672,4293542123
+
+
+//Brya's Love
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=2779821308&perks=3700496672,3038247973
 
 
 //Tarnished Mettle
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2218569744&perks=3700496672,3038247973
+dimwishlist:item=2218569744&perks=3700496672,3038247973
+
+
+//Mykel's Reverence
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=231031173&perks=3418782618,4104185692
+
+
+//Mykel's Reverence
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1986287028&perks=3418782618,4104185692
+dimwishlist:item=231031173&perks=3418782618,831391274
+dimwishlist:item=1986287028&perks=3418782618,831391274
 
 
 //Breachlight
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2328923181&perks=3523296417,2109543898
+dimwishlist:item=2328923181&perks=3523296417,2109543898
 
 
 //Breachlight
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-2328923181&perks=3523296417,831391274
-dimwishlist:item=-2328923181&perks=923806249,2109543898
-dimwishlist:item=-2328923181&perks=923806249,831391274
-dimwishlist:item=-2328923181&perks=4071163871,2109543898
-dimwishlist:item=-2328923181&perks=4071163871,831391274
+dimwishlist:item=2328923181&perks=3523296417,831391274
+dimwishlist:item=2328923181&perks=923806249,2109543898
+dimwishlist:item=2328923181&perks=923806249,831391274
+dimwishlist:item=2328923181&perks=4071163871,2109543898
+dimwishlist:item=2328923181&perks=4071163871,831391274
+
+
+//Heliocentric QSc
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+dimwishlist:item=3998080529&perks=3017780555,4104185692
+dimwishlist:item=3998080529&perks=3523296417,4293542123
+dimwishlist:item=3998080529&perks=3523296417,4104185692
 
 
 //Anonymous Autumn
@@ -3065,35 +3260,75 @@ dimwishlist:item=-2328923181&perks=4071163871,831391274
 
 //Anonymous Autumn
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1051949956&perks=684456054,2173046394
-dimwishlist:item=-1051949956&perks=684456054,4104185692
-dimwishlist:item=-1051949956&perks=684456054,2109543898
-dimwishlist:item=-1051949956&perks=3523296417,2173046394
-dimwishlist:item=-1051949956&perks=3523296417,4104185692
-dimwishlist:item=-1051949956&perks=3523296417,2109543898
-dimwishlist:item=-1051949956&perks=243981275,2173046394
-dimwishlist:item=-1051949956&perks=243981275,4104185692
-dimwishlist:item=-1051949956&perks=243981275,2109543898
+dimwishlist:item=1051949956&perks=684456054,2173046394
+dimwishlist:item=1051949956&perks=684456054,4104185692
+dimwishlist:item=1051949956&perks=684456054,2109543898
+dimwishlist:item=1051949956&perks=3523296417,2173046394
+dimwishlist:item=1051949956&perks=3523296417,4104185692
+dimwishlist:item=1051949956&perks=3523296417,2109543898
+dimwishlist:item=1051949956&perks=243981275,2173046394
+dimwishlist:item=1051949956&perks=243981275,4104185692
+dimwishlist:item=1051949956&perks=243981275,2109543898
+
+
+//Multimach CCX
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3211624072&perks=243981275,4104185692
+
+
+//Multimach CCX
+//notes:Aegis Endgame  Tier - Rank 
+
+
+//Multimach CCX
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3211624072&perks=243981275,3891536761
+dimwishlist:item=3211624072&perks=1870851715,4104185692
+dimwishlist:item=3211624072&perks=1870851715,3891536761
 
 
 //Imminence
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-3951511045&perks=3828510309,3640170453
+dimwishlist:item=3951511045&perks=3828510309,3640170453
 
 
 //Imminence
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1258168956&perks=3828510309,3640170453
-dimwishlist:item=-3951511045&perks=3828510309,3824105627
-dimwishlist:item=-1258168956&perks=3828510309,3824105627
-dimwishlist:item=-3951511045&perks=3828510309,831391274
-dimwishlist:item=-1258168956&perks=3828510309,831391274
-dimwishlist:item=-3951511045&perks=3523296417,3640170453
-dimwishlist:item=-1258168956&perks=3523296417,3640170453
-dimwishlist:item=-3951511045&perks=3523296417,3824105627
-dimwishlist:item=-1258168956&perks=3523296417,3824105627
-dimwishlist:item=-3951511045&perks=3523296417,831391274
-dimwishlist:item=-1258168956&perks=3523296417,831391274
+dimwishlist:item=1258168956&perks=3828510309,3640170453
+dimwishlist:item=3951511045&perks=3828510309,3824105627
+dimwishlist:item=1258168956&perks=3828510309,3824105627
+dimwishlist:item=3951511045&perks=3828510309,831391274
+dimwishlist:item=1258168956&perks=3828510309,831391274
+dimwishlist:item=3951511045&perks=3523296417,3640170453
+dimwishlist:item=1258168956&perks=3523296417,3640170453
+dimwishlist:item=3951511045&perks=3523296417,3824105627
+dimwishlist:item=1258168956&perks=3523296417,3824105627
+dimwishlist:item=3951511045&perks=3523296417,831391274
+dimwishlist:item=1258168956&perks=3523296417,831391274
+
+
+//The Recluse
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=3098328572&perks=3828510309,2109543898
+
+
+//The Recluse
+//notes:Aegis Endgame  Tier - Rank 
+
+
+//The Recluse
+//notes:Aegis Endgame  Tier - Rank 
+dimwishlist:item=1050806815&perks=3828510309,2109543898
+dimwishlist:item=3098328572&perks=3828510309,4104185692
+dimwishlist:item=1050806815&perks=3828510309,4104185692
+dimwishlist:item=3098328572&perks=3828510309,2048641572
+dimwishlist:item=1050806815&perks=3828510309,2048641572
+dimwishlist:item=3098328572&perks=776531651,2109543898
+dimwishlist:item=1050806815&perks=776531651,2109543898
+dimwishlist:item=3098328572&perks=776531651,4104185692
+dimwishlist:item=1050806815&perks=776531651,4104185692
+dimwishlist:item=3098328572&perks=776531651,2048641572
+dimwishlist:item=1050806815&perks=776531651,2048641572
 
 
 //Subjunctive
@@ -3102,10 +3337,10 @@ dimwishlist:item=-1258168956&perks=3523296417,831391274
 
 //Subjunctive
 //notes:Aegis Endgame  Tier - Rank 
-dimwishlist:item=-1447836603&perks=4071163871,2173046394
-dimwishlist:item=-1447836603&perks=4071163871,4049631843
-dimwishlist:item=-1447836603&perks=3700496672,2173046394
-dimwishlist:item=-1447836603&perks=3700496672,4049631843
+dimwishlist:item=1447836603&perks=4071163871,2173046394
+dimwishlist:item=1447836603&perks=4071163871,4049631843
+dimwishlist:item=1447836603&perks=3700496672,2173046394
+dimwishlist:item=1447836603&perks=3700496672,4049631843
 
 
 //Buried Bloodline
