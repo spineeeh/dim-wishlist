@@ -7007,154 +7007,340 @@ dimwishlist:item=4277547616&perks=2010801679,2848615171
 
 //Choir of One
 //notes:Aegis Endgame S Tier
+//notes:Solo: 3
+//notes:Gms: 2
+//notes:Dps: 2
+//notes:Day 1: 3
+//notes:Chal: 3
+//notes:Speed: 1
 dimwishlist:item=3698448090
 
 
 //Buried Bloodline
 //notes:Aegis Endgame A Tier
+//notes:Solo: 3
+//notes:Gms: 2
+//notes:Dps: 0
+//notes:Day 1: 2
+//notes:Chal: 2
+//notes:Speed: 0
 dimwishlist:item=3886719505
 
 
 //Ergo Sum
 //notes:Aegis Endgame A Tier
+//notes:Solo: 3
+//notes:Gms: 2
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 2
+//notes:Speed: 3
 dimwishlist:item=1681583613
 
 
 //Parasite
 //notes:Aegis Endgame A Tier
+//notes:Solo: 2
+//notes:Gms: 3
+//notes:Dps: 2
+//notes:Day 1: 2
+//notes:Chal: 2
+//notes:Speed: 2
 dimwishlist:item=2812324400
 
 
 //Sunshot
 //notes:Aegis Endgame A Tier
+//notes:Solo: 3
+//notes:Gms: 1
+//notes:Dps: 0
+//notes:Day 1: 3
+//notes:Chal: 3
+//notes:Speed: 0
 dimwishlist:item=2907129557
 
 
 //Tractor Cannon
 //notes:Aegis Endgame A Tier
+//notes:Solo: 1
+//notes:Gms: 1
+//notes:Dps: 3
+//notes:Day 1: 3
+//notes:Chal: 2
+//notes:Speed: 3
 dimwishlist:item=3580904581
 
 
 //Cloudstrike
 //notes:Aegis Endgame B Tier
+//notes:Solo: 0
+//notes:Gms: 0
+//notes:Dps: 2
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=2603483885
 
 
 //D.A.R.C.I.
 //notes:Aegis Endgame B Tier
+//notes:Solo: 0
+//notes:Gms: 0
+//notes:Dps: 2
+//notes:Day 1: 1
+//notes:Chal: 1
+//notes:Speed: 0
 dimwishlist:item=3141979346
 
 
 //Gjallarhorn
 //notes:Aegis Endgame B Tier
+//notes:Solo: 1
+//notes:Gms: 1
+//notes:Dps: 2
+//notes:Day 1: 1
+//notes:Chal: 1
+//notes:Speed: 2
 dimwishlist:item=1363886209
 
 
 //Graviton Lance
 //notes:Aegis Endgame B Tier
+//notes:Solo: 3
+//notes:Gms: 1
+//notes:Dps: 0
+//notes:Day 1: 2
+//notes:Chal: 1
+//notes:Speed: 0
 dimwishlist:item=3628991658
 
 
 //Izanagi's Burden
 //notes:Aegis Endgame B Tier
+//notes:Solo: 0
+//notes:Gms: 2
+//notes:Dps: 1
+//notes:Day 1: 1
+//notes:Chal: 2
+//notes:Speed: 3
 dimwishlist:item=3211806999
 
 
 //Khvostov 7G-0X
 //notes:Aegis Endgame B Tier
+//notes:Solo: 2
+//notes:Gms: 1
+//notes:Dps: 0
+//notes:Day 1: 1
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=4129629253
 
 
 //Leviathan's Breath
 //notes:Aegis Endgame B Tier
+//notes:Solo: 1
+//notes:Gms: 1
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=2591746970
 
 
 //Outbreak Perfected
 //notes:Aegis Endgame B Tier
+//notes:Solo: 2
+//notes:Gms: 2
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=3824673936
 
 
 //Outbreak Perfected
 //notes:Aegis Endgame B Tier
+//notes:Solo: 2
+//notes:Gms: 2
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=400096939
 
 
 //The Navigator
 //notes:Aegis Endgame B Tier
+//notes:Solo: 1
+//notes:Gms: 1
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 3
+//notes:Speed: 1
 dimwishlist:item=1441805468
 
 
 //Trinity Ghoul
 //notes:Aegis Endgame B Tier
+//notes:Solo: 2
+//notes:Gms: 0
+//notes:Dps: 0
+//notes:Day 1: 2
+//notes:Chal: 2
+//notes:Speed: 1
 dimwishlist:item=814876685
 
 
 //Whisper of the Worm
 //notes:Aegis Endgame B Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 2
+//notes:Day 1: 3
+//notes:Chal: 1
+//notes:Speed: 0
 dimwishlist:item=1891561814
 
 
 //Whisper of the Worm
 //notes:Aegis Endgame B Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 2
+//notes:Day 1: 3
+//notes:Chal: 1
+//notes:Speed: 0
 dimwishlist:item=1983149589
 
 
 //Alethonym
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 0
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 1
 dimwishlist:item=2350354266
 
 
 //Divinity
 //notes:Aegis Endgame C Tier
+//notes:Solo: 0
+//notes:Gms: 0
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=4103414242
 
 
 //Eriana's Vow
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 2
+//notes:Dps: 0
+//notes:Day 1: 1
+//notes:Chal: 2
+//notes:Speed: 1
 dimwishlist:item=3524313097
 
 
 //Euphony
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=3284383335
 
 
 //Legend of Acrius
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 2
+//notes:Day 1: 2
+//notes:Chal: 1
+//notes:Speed: 0
 dimwishlist:item=3580904580
 
 
 //Legend of Acrius
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 2
+//notes:Day 1: 2
+//notes:Chal: 1
+//notes:Speed: 0
 dimwishlist:item=1744115122
 
 
 //Lumina
 //notes:Aegis Endgame C Tier
+//notes:Solo: 0
+//notes:Gms: 0
+//notes:Dps: 1
+//notes:Day 1: 1
+//notes:Chal: 2
+//notes:Speed: 3
 dimwishlist:item=3512014804
 
 
 //Microcosm
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 1
+//notes:Day 1: 2
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=4207066264
 
 
 //Necrochasm
 //notes:Aegis Endgame C Tier
+//notes:Solo: 2
+//notes:Gms: 0
+//notes:Dps: 0
+//notes:Day 1: 1
+//notes:Chal: 0
+//notes:Speed: 0
 dimwishlist:item=1034055198
 
 
 //Still Hunt
 //notes:Aegis Endgame C Tier
+//notes:Solo: 1
+//notes:Gms: 0
+//notes:Dps: 1
+//notes:Day 1: 1
+//notes:Chal: 1
+//notes:Speed: 2
 dimwishlist:item=2905188646
 
 
 //The Fourth Horseman
 //notes:Aegis Endgame C Tier
+//notes:Solo: 0
+//notes:Gms: 0
+//notes:Dps: 1
+//notes:Day 1: 1
+//notes:Chal: 1
+//notes:Speed: 3
 dimwishlist:item=1665952087
 
 
 //Xenophage
 //notes:Aegis Endgame C Tier
+//notes:Solo: 0
+//notes:Gms: 0
+//notes:Dps: 0
+//notes:Day 1: 1
+//notes:Chal: 2
+//notes:Speed: 2
 dimwishlist:item=1395261499
